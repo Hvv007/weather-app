@@ -1,0 +1,63 @@
+.inputBlock {
+    width: 1000px;
+    display: inline-block;
+    font-size: 18px;
+    text-align: center;
+    margin: 15px 15%;
+}
+
+.input {
+    width: 100px;
+    text-align: center;
+    border: 1px solid;
+}
+
+.invalidCoordinates {
+    font-size: 24px;
+    font-weight: Bold;
+    color: red;
+}
+
+.map {
+    width: 700px; 
+    height: 500px;
+    margin: 15px 15%;
+    border: 1px solid;
+}
+
+.showWeatherButton {
+    font-size: 18px;
+    border: solid;
+    padding: 6px;
+    margin: 10px;
+}
+
+.weatherWidget {
+    width: 420px;
+    display: inline-block;
+    padding: 10px;
+    margin: 15px;
+    border: solid;
+    text-align: center;
+    font-size: 18px;
+}
+
+.widgetWeatherIcon {
+    width: 40px;
+}
+
+.widgetMiniMap {
+    width: 380px;
+    height: 380px;
+    margin: 10px 5%;
+}
+
+.widgetMapButton {
+    width: 65px;
+    border: solid;
+}
+
+.removeWidgetButton {
+    width: 65px;
+    border: solid;
+}
